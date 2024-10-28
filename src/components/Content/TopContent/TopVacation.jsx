@@ -1,16 +1,26 @@
 import VacationSwiper from "../../../utils/VacationSwiper";
+import baliImg from "../../../assets/images/bali.png";
+import kerryImg from "../../../assets/images/kerry.png";
+import sydneyImg from "../../../assets/images/sydney.png";
+import parisImg from "../../../assets/images/paris.png";
+import kazanImg from "../../../assets/images/kazan.jpg";
+import tokyoImg from "../../../assets/images/tokyo.jpg";
+import newyorkImg from "../../../assets/images/newyork.jpg";
+import capetownImg from "../../../assets/images/capetown.jpg";
+import rioImg from "../../../assets/images/rio.jpg";
+import barcelonaImg from "../../../assets/images/barcelona.jpg";
 
 const destinations = [
-  { name: "Bali, Indonesia", image: "src/assets/images/bali.png" },
-  { name: "Kerry, Ireland", image: "src/assets/images/kerry.png" },
-  { name: "Sydney, Australia", image: "src/assets/images/sydney.png" },
-  { name: "Paris, France", image: "src/assets/images/paris.png" },
-  { name: "Kazan, Russia", image: "src/assets/images/kazan.jpg" },
-  { name: "Tokyo, Japan", image: "src/assets/images/tokyo.jpg" },
-  { name: "New York, USA", image: "src/assets/images/newyork.jpg" },
-  { name: "Cape Town, South Africa", image: "src/assets/images/capetown.jpg" },
-  { name: "Rio de Janeiro, Brazil", image: "src/assets/images/rio.jpg" },
-  { name: "Barcelona, Spain", image: "src/assets/images/barcelona.jpg" },
+  { name: "Bali, Indonesia", image: baliImg },
+  { name: "Kerry, Ireland", image: kerryImg },
+  { name: "Sydney, Australia", image: sydneyImg },
+  { name: "Paris, France", image: parisImg },
+  { name: "Kazan, Russia", image: kazanImg },
+  { name: "Tokyo, Japan", image: tokyoImg },
+  { name: "New York, USA", image: newyorkImg },
+  { name: "Cape Town, South Africa", image: capetownImg },
+  { name: "Rio de Janeiro, Brazil", image: rioImg },
+  { name: "Barcelona, Spain", image: barcelonaImg },
 ];
 
 function TopVacation() {

@@ -1,22 +1,26 @@
 import VacationSwiper from "../../../utils/VacationSwiper";
+import hotelsImg from "../../../assets/images/hotels.png";
+import apartImg from "../../../assets/images/apartments.png";
+import resortsImg from "../../../assets/images/resorts.png";
+import villasImg from "../../../assets/images/villas.png";
 
 const properties = [
-  { name: "Hotels", image: "/src/assets/images/hotels2.png" },
-  { name: "Apartments", image: "/src/assets/images/apartments.png" },
-  { name: "Resorts", image: "/src/assets/images/resorts.png" },
-  { name: "Villas", image: "/src/assets/images/villas.png" },
-  { name: "Hotels", image: "/src/assets/images/hotels2.png" },
-  { name: "Apartments", image: "/src/assets/images/apartments.png" },
-  { name: "Resorts", image: "/src/assets/images/resorts.png" },
-  { name: "Villas", image: "/src/assets/images/villas.png" },
-  { name: "Hotels", image: "/src/assets/images/hotels2.png" },
-  { name: "Apartments", image: "/src/assets/images/apartments.png" },
-  { name: "Resorts", image: "/src/assets/images/resorts.png" },
-  { name: "Villas", image: "/src/assets/images/villas.png" },
-  { name: "Hotels", image: "/src/assets/images/hotels2.png" },
-  { name: "Apartments", image: "/src/assets/images/apartments.png" },
-  { name: "Resorts", image: "/src/assets/images/resorts.png" },
-  { name: "Villas", image: "/src/assets/images/villas.png" },
+  { name: "Hotels", image: hotelsImg },
+  { name: "Apartments", image: apartImg },
+  { name: "Resorts", image: resortsImg },
+  { name: "Villas", image: villasImg },
+  { name: "Hotels", image: hotelsImg },
+  { name: "Apartments", image: apartImg },
+  { name: "Resorts", image: resortsImg },
+  { name: "Villas", image: villasImg },
+  { name: "Hotels", image: hotelsImg },
+  { name: "Apartments", image: apartImg },
+  { name: "Resorts", image: resortsImg },
+  { name: "Villas", image: villasImg },
+  { name: "Hotels", image: hotelsImg },
+  { name: "Apartments", image: apartImg },
+  { name: "Resorts", image: resortsImg },
+  { name: "Villas", image: villasImg },
 ];
 
 function PropertyType() {

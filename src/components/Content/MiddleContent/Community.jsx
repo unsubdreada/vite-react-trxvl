@@ -1,53 +1,57 @@
 import CommunititySwiper from "../../../utils/CommunitySwiper";
+import indiaImg from "../../../assets/images/india.png";
+import travelTalkImg from "../../../assets/images/travel_talk.png";
+import beachImg from "../../../assets/images/beach.png";
+import mountainsImg from "../../../assets/images/mountains.png";
 
 const communities = [
   {
     name: "India",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/india.png",
+    image: indiaImg,
   },
   {
     name: "Travel Talk",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/travel_talk.png",
+    image: travelTalkImg,
   },
   {
     name: "Beach",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/beach.png",
+    image: beachImg,
   },
   {
     name: "Mountains",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/mountains.png",
+    image: mountainsImg,
   },
   {
     name: "India",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/india.png",
+    image: indiaImg,
   },
   {
     name: "Travel Talk",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/travel_talk.png",
+    image: travelTalkImg,
   },
   {
     name: "Beach",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/beach.png",
+    image: beachImg,
   },
   {
     name: "Mountains",
     type: "Travel Community",
     subscribers: "155,073",
-    image: "/src/assets/images/mountains.png",
+    image: mountainsImg,
   },
 ];
 
