@@ -19,7 +19,7 @@ function TopVacation() {
       <h1 className="font-bold text-4xl text-white">
         Top Vacation Destinations
       </h1>
-      <div className="">
+      <div>
         <VacationSwiper items={destinations} countSlides={5} />
       </div>
     </div>
